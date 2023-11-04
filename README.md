@@ -3,14 +3,14 @@
 ## Introduction
 Ce projet est une application de gestion qui permet de gérer des étudiants, des filières, des rôles et des utilisateurs. Les étudiants héritent des attributs d'un utilisateur, et il est possible d'affecter des étudiants à des filières et d'attribuer des rôles à des utilisateurs.
 
-L'application a été développée en utilisant les technologies suivantes :
+L'application a été développée en utilisant les technologies et outils suivantes :
 
 - **Spring Boot** : Un framework Java qui simplifie le développement d'applications web et facilite la création de services RESTful.
 - **Postman** : Un outil de test d'API qui permet de tester les endpoints de l'application et de vérifier leur fonctionnement.
 - **JPQL** (Java Persistence Query Language) : Un langage de requête pour interagir avec la base de données de manière orientée objet.
 - **Swagger** : Un outil de documentation d'API qui génère une documentation interactive pour les endpoints de l'application.
 
-## Technologies Utilisées
+## Technologies et Outils Utilisées
 
 ### Spring Boot
 Spring Boot est un framework Java qui simplifie le développement d'applications en fournissant des solutions prêtes à l'emploi pour les tâches courantes. Il facilite la création de services web RESTful, la gestion de la sécurité, la gestion de la base de données, etc. Dans ce projet, Spring Boot est utilisé pour créer un backend robuste pour notre application.
